@@ -48,7 +48,7 @@ java ListaDeTarefas
 
 ## 🖼️ Preview
 
-![Screenshot](link-da-imagem-aqui) 🌷
+![Screenshot](file:///C:/Users/kahde/OneDrive/Imagens/Screenshots/Captura%20de%20tela%202025-10-17%20120127.png) 🌷
 
 ---
 
