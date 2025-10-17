@@ -48,7 +48,7 @@ java ListaDeTarefas
 
 ## 🖼️ Preview
 
-![Screenshot](file:///C:/Users/kahde/OneDrive/Imagens/Screenshots/Captura%20de%20tela%202025-10-17%20120127.png) 🌷
+![Screenshot](https://raw.githubusercontent.com/KarineSilvaCodes/lista-de-tarefas-java/6e2ecb5c18d9fe95bd686e9a410c0ee8a86f5205/Captura%20de%20tela%202025-10-17%20120127.png) 🌷
 
 ---
 
